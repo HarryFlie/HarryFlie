@@ -1,4 +1,7 @@
-# Hi, I'm [Haris Khan] 👋
+# Hi, I'm Haris Khan 👋
+
+🎓 Master's Researcher in Engineering & Applied Technology  
+📍 National Taipei University of Technology (Taipei Tech), Taiwan 
 
 ### 🚀 Robotics Researcher | Control Systems Engineer
 
@@ -35,8 +38,7 @@ I am currently conducting a comparative analysis of **Linear vs. Nonlinear Contr
 
 #### 🚁 [Robust-UAV-Control-Comparison](LINK_TO_YOUR_REPO_HERE)
 *Mathematical modeling and simulation of a quadcopter under wind disturbance.*
-* **PhD relevance:** Demonstrates ability to derive equations of motion and prove stability.
-* **Industry relevance:** Shows proficiency in Model-Based Design (MBD) and tuning PID/SMC loops for performance.
+
 
 #### 📐 [UAV-Formation-Geometry](LINK_TO_YOUR_REPO_HERE)
 *Trajectory tracking and formation control algorithms.*
@@ -45,5 +47,5 @@ I am currently conducting a comparative analysis of **Linear vs. Nonlinear Contr
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **LinkedIn:** [www.linkedin.com/in/haris-khan-954775305](www.linkedin.com/in/haris-khan-954775305)
+* **Email:** [haris.iiu781@gmail.com](haris.iiu781@gmail.com)
