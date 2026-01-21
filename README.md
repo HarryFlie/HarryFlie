@@ -54,5 +54,6 @@ I am currently conducting a comparative analysis of **Linear vs. Nonlinear Contr
 ---
 
 ### 📫 Connect with Me
+* **You tube:** [https://www.youtube.com/channel/UCtRKx5GF2BIyX5Yu6Le4KvA](https://www.youtube.com/channel/UCtRKx5GF2BIyX5Yu6Le4KvA)
 * **LinkedIn:** [www.linkedin.com/in/haris-khan-954775305](www.linkedin.com/in/haris-khan-954775305)
-* **Email:** [haris.iiu781@gmail.com](haris.iiu781@gmail.com)
+* **Email:** [haris.iiu781@gmail.com](haris.iiu781@gmail.com)   
