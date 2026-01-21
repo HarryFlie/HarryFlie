@@ -1,7 +1,14 @@
 # Hi, I'm Haris Khan 👋
 
-🎓 Master's Researcher in Engineering & Applied Technology  
-📍 National Taipei University of Technology (Taipei Tech), Taiwan 
+## Education
+
+🎓 **M.S. in Mechatronics Engineering**  
+📍National Taipei University of Technology (Taipei Tech), Taiwan  
+Feb 2024 – Feb 2026  
+
+🎓**B.S. in Mechanical Engineering**  
+📍International Islamic University Islamabad (IIUI), Pakistan  
+Sep 2018 – Jun 2022  
 
 ### 🚀 Robotics Researcher | Control Systems Engineer
 
